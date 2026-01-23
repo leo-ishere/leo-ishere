@@ -48,7 +48,6 @@ return {
             "LOL",
             "Haha",
             "🤣",
-            "😂",
             "😭",
             "Bruh",
             "Nice",
@@ -131,21 +130,6 @@ return {
             "Test failed.",
             "Place Class-D inside chamber.",
             "Testing Brief", -- special config - do not remove
-        },
-        ["Zone Orders"] = {
-            ["Detain Zone"] = {
-                "DZ Active",
-                "DZ Inactive",
-                "DZ Whitelist",
-                "DZ 5 Studs",
-                "DZ 7 Studs",
-            },
-            ["Kill Zone"] = {
-                "KZ Active",
-                "KZ Inactive",
-                "KZ Whitelist",
-                "KZ 3 Studs",
-            },
         },
     },
 
